@@ -2,4 +2,6 @@
 --
 ## Важно!
 <img src="/discord.py-template-ru-/1.png" alt="Gay"/>
+--
 ## Спасибо!
+--
