@@ -1,6 +1,6 @@
 ## Это очень простой шаблон для вёстки бота по тз. Тут есть все нужные библы и примеры команд (Можете кидать идеи сюда [Клик](https://t.me/melkiyygvisik))
 
 ## Важно!
-<img src="/discord.py-template-ru-/1.png" alt="Gay"/>
+<img src="https://cdn.discordapp.com/attachments/974767526393298974/974796325885476864/1.png" alt="Gay"/>
 
 ## Спасибо!
