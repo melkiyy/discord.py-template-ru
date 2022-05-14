@@ -1,3 +1,3 @@
 @echo off
-py i_love_melkiyy.py
+py main.py
 pause
